@@ -1,0 +1,19 @@
+{
+  "name": "js-full_beginners_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.35.0",
+    "eslint": "^9.34.0",
+    "globals": "^16.3.0"
+  }
+}
