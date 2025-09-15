@@ -8,7 +8,6 @@ const personalMovieDB = {
   actors: {},
   genres: [],
   privat: false,
-};
 
 for (let i = 0; i < 2; i++) {
   let prompt1;
